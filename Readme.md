@@ -12,7 +12,7 @@
 - Double L-Shift to Caps Lock
 - Change Caps_Lock to Control + Option + Command.
 - Change R_Command to Hyper key.
-- Quit application by holding Command + Q.
+- Quit application by pressing Command + Q twice.
 - Double tab and hold L_Command to become L_Control. (Usefull to navigate throug tabs with CMD + TAB)
 - Tab Launcher. (Used to launch/focus on a specific app by pressing TAB + KEY)
 
