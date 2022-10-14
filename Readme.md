@@ -14,7 +14,7 @@
 - Change R_Command to Hyper key.
 - Quit application by pressing Command + Q twice.
 - Double tab and hold L_Command to become L_Control. (Usefull to navigate throug tabs with CMD + TAB)
-- Tab Launcher. (Used to launch/focus on a specific app by pressing TAB + KEY)
+- Right Option Launcher. (Used to launch/focus on a specific app by pressing RIGHT OPTION + KEY)
 
 
 
