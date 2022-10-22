@@ -15,7 +15,7 @@
 - Change R_Option to FN.
 - Quit application by pressing Command + Q twice.
 - Double tab and hold L_Command to become L_Control. (Usefull to navigate throug tabs with CMD + TAB)
-- Spacebar Launcher. (Used to launch/focus on a specific app by pressing SPACEBAR + KEY)
+- Tab Launcher. (Used to launch/focus on a specific app by pressing TAB + KEY)
 
 
 
