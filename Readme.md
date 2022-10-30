@@ -9,13 +9,13 @@
 [Karabiner Elements] is one of the most known pieces of software for keyboard personalization and remapping on macOS. Althoug everyone may have different uses for it, these are some of the functionalities I get from it and on this repo I'd be sharing my JSON configuration file.
 
 ### 🎛 Functionalities included on the config file:
-- Remap CAPS LOCK to CONTROL + OPTION + COMMAND.
+- Remap CAPS LOCK to CONTROL + OPTION + COMMAND or Hyper after a double press..
 - Remap LEFT SHIFT double press to CAPS LOCK. 
 - Remap RIGHT COMMAND to BACKSPACE. 
 - Remap RIGHT OPTION to FN.
 - Modify quitting applications by pressing COMMAND + Q twice.
 - Modify LEFT COMMAND to become LEFT CONTROL after a double press and hold. (Usefull to navigate throug tabs with COMMAND + TAB)
-- Tab Launcher Layer. (Used to launch/focus on a specific app by pressing CAPS LOCK + TAB + KEY)
+- Spacebar Launcher Layer. (Used to launch/focus on a specific app by pressing CAPS LOCK + SPACEBAR + KEY)
 
 
 
