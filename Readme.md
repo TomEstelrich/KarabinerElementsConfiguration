@@ -10,11 +10,12 @@
 
 ### 🎛 Functionalities included on the config file:
 - Remap CAPS LOCK to Hyper layer when hold or backspace when pressed.
-- Remap TAB to system layer when hold.
+- Remap RETURN to system layer when hold.
 - Remap LEFT SHIFT double press to CAPS LOCK.
 - Remap RIGHT OPTION to FN.
 - Modify quitting applications by pressing COMMAND + Q twice.
 - Spacebar Launcher Layer. (Used to launch/focus on a specific app by pressing SPACEBAR + KEY)
+- Symbols Launcher Layer.
 
 
 
