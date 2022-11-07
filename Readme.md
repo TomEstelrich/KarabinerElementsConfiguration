@@ -14,7 +14,7 @@
 - Remap LEFT SHIFT double press to CAPS LOCK.
 - Remap RIGHT OPTION to FN.
 - Modify quitting applications by pressing COMMAND + Q twice.
-- Spacebar Launcher Layer. (Used to launch/focus on a specific app by pressing SPACEBAR + KEY)
+- App Launcher Layer. (Used to launch/focus on a specific app by pressing QUOTE + KEY)
 
 
 
