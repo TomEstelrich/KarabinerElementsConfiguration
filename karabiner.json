@@ -258,12 +258,12 @@
             ]
         },
         {
-            "description": "App Launcher Layer.",
+            "description": "Tab Launcher Layer.",
             "manipulators": [
                 {
                     "type": "basic",
                     "from": {
-                        "key_code": "quote"
+                        "key_code": "tab"
                     },
                     "to": [
                         {
@@ -283,7 +283,7 @@
                     ],
                     "to_if_alone": [
                         {
-                            "key_code": "quote"
+                            "key_code": "tab"
                         }
                     ]
                 },
