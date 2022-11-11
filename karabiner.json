@@ -8,7 +8,7 @@
     },
     "rules": [
         {
-            "description": "Remap CAPS LOCK to Hyper layer when hold or backspace when pressed.",
+            "description": "Remap CAPS LOCK to Hyper layer when hold.",
             "manipulators": [
                 {
                     "type": "basic",
@@ -43,11 +43,6 @@
                                 "name": "hyper_layer_active",
                                 "value": 0
                             }
-                        }
-                    ],
-                    "to_if_alone": [
-                        {
-                            "key_code": "delete_or_backspace"
                         }
                     ]
                 }
