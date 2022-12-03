@@ -6,7 +6,7 @@
 
 <!-- BODY -->
 ## Karabiner Elements JSON configuration file.
-[Karabiner Elements] is one of the most known pieces of software for keyboard personalization and remapping on macOS. Althoug everyone may have different uses for it, these are some of the functionalities I get from it and on this repo I'd be sharing my JSON configuration file.
+[Karabiner Elements] is one of the most known pieces of software for keyboard personalization and remapping on macOS. Although everyone may have different uses for it, these are some of the functionalities I get from it and on this repo I'd be sharing my JSON configuration file.
 
 ### 🎛 Functionalities included on the config file:
 - Remap CAPS LOCK to Hyper layer when hold..
